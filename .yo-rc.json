@@ -1,0 +1,33 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.yan.sys"
+    },
+    "jhipsterVersion": "5.7.0",
+    "applicationType": "gateway",
+    "baseName": "bookstore",
+    "packageName": "com.yan.sys",
+    "packageFolder": "com/yan/sys",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Memory",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjNiYTVlMjcwZjQyMjQ2MjIxYTQ4YmEwYzJmMDE4MTNkYmM4N2U0MzJiNjcyZTIyMTI5N2MyNWFmYWY5MWQ2NmI4NTliNGQzMGQyNzVmYTA5NGZmNzNiZWRjODA4Y2I5ZmNkY2QyMTc5OTEzYTRkYmQ3OTJmYzRhZjJkMGM5ODQ=",
+    "clientFramework": "angularX",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "otherModules": [],
+    "enableTranslation": false
+  }
+}
